@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @murderfalcon
-- 👀 I’m interested in Hacking, Bug Bounties, Info Sec, Guitar, Comics
+- 👀 I’m interested in Hacking, Bug Bounties, InfoSec, Guitar, Comics
 - 🌱 I’m currently learning lots of things.
 - 💞️ I’m looking to collaborate on Hacking, Bug Bounties, Guitar
 
