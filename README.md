@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @murderfalcon
+- 👋 Hi, I’m @murderfalcon AKA Chuck Lerant
+- OSCP and C.E.H.
 - 👀 I’m interested in Hacking, Bug Bounties, InfoSec, Guitar, Comics
 - 🌱 I’m currently learning lots of things.
 - 💞️ I’m looking to collaborate on Hacking, Bug Bounties, Guitar
