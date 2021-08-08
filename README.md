@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chuck Lerant A.K.A @murderfalcon
+- 👋 Hi, I’m Chuck A.K.A @murderfalcon
 - 👀 I’m interested in Hacking, Bug Bounties, InfoSec, Guitar, Comics
 - 🌱 I’m currently learning lots of things.
 - 💞️ I’m looking to collaborate on Hacking, Bug Bounties, Guitar
